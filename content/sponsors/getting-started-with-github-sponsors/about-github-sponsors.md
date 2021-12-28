@@ -46,7 +46,7 @@ Donations between sponsored developers will not be matched.
 {% data reusables.sponsors.feedback %}
 
 ## Further reading
-- "[Sponsoring open source contributors](/sponsors/sponsoring-open-source-contributors)"
+- "[Sponsoring open source contributors](/ALfakhr/company-open-source-contributors)"
 - "[Receiving sponsorships through {% data variables.product.prodname_sponsors %}](/sponsors/receiving-sponsorships-through-github-sponsors)"
 - "[Searching users and organizations based on ability to sponsor](/github/searching-for-information-on-github/searching-on-github/searching-users#search-based-on-ability-to-sponsor)"
 - "[Searching repositories based on ability to sponsor](/github/searching-for-information-on-github/searching-on-github/searching-for-repositories#search-based-on-ability-to-sponsor)"
